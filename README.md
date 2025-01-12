@@ -11,13 +11,16 @@ Have fun!
 
 Your QTrip website will have these 3 pages
 
-# Landing Page - This is the starting page for the website. It lists the various cities for which you can explore adventures
+# Landing Page -
+This is the starting page for the website. It lists the various cities for which you can explore adventures
 
 
-# Adventures Grid Page - This is the page that you’ll get to by clicking on one of the city cards on the Landing Page. It lists the Adventures available for that city.
+# Adventures Grid Page - 
+This is the page that you’ll get to by clicking on one of the city cards on the Landing Page. It lists the Adventures available for that city.
 
 
-# Adventure Details Page - This is the page that you’ll get to by clicking on one of the Adventures on the Adventures Grid Page. It lists details about that particular Adventure.
+# Adventure Details Page -
+This is the page that you’ll get to by clicking on one of the Adventures on the Adventures Grid Page. It lists details about that particular Adventure.
 
 
 #  Background
